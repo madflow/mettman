@@ -1,0 +1,21 @@
+{
+    "name": "mettman",
+    "version": "1.0.0",
+    "description":
+        "A gender specific Mett-Brötchen-Zwiebeln amount calculator for the public domain",
+    "main": "index.js",
+    "repository": "https://github.com/madflow/mettman",
+    "author": "madflow <madflow@localhost>",
+    "license": "Unlicense",
+    "bin": {
+        "mettman": "bin/mettman.js"
+    },
+    "devDependencies": {},
+    "dependencies": {
+        "chalk": "^2.3.1",
+        "yargs": "^11.0.0"
+    },
+    "engines": {
+        "node": ">= 8.0.0"
+    }
+}
