@@ -1,4 +1,4 @@
-const ladsMett = 80;
+const ladsMett = 100;
 const galsMett = 60;
 const oellig = 0.4;
 const bautzner = 1;
