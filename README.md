@@ -4,7 +4,7 @@ Made in the slums of BG.
 
 ## Install
 
-```git clone```
+```git clone https://github.com/madflow/mettman.git```
 
 ```yarn```
 
