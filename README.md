@@ -2,13 +2,24 @@
 
 Made in the slums of BG.
 
-# Usage
+## Install
+
+```git clone```
+
+```yarn```
+
+## Usage
+
 
 ```SHELL
 
-mettman --gals 2 --lads 10
+mettman --gals 2 --lads 10 #number of brötchen
 
 ```
+
+## Warning
+
+Does not scale
 
 Howto:
 
